@@ -1,0 +1,7 @@
+C:\Users\2\source\repos\Строковый калькулятор\Строковый калькулятор\bin\Debug\Строковый калькулятор.exe.config
+C:\Users\2\source\repos\Строковый калькулятор\Строковый калькулятор\bin\Debug\Строковый калькулятор.exe
+C:\Users\2\source\repos\Строковый калькулятор\Строковый калькулятор\bin\Debug\Строковый калькулятор.pdb
+C:\Users\2\source\repos\Строковый калькулятор\Строковый калькулятор\obj\Debug\Строковый калькулятор.csproj.AssemblyReference.cache
+C:\Users\2\source\repos\Строковый калькулятор\Строковый калькулятор\obj\Debug\Строковый калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\2\source\repos\Строковый калькулятор\Строковый калькулятор\obj\Debug\Строковый калькулятор.exe
+C:\Users\2\source\repos\Строковый калькулятор\Строковый калькулятор\obj\Debug\Строковый калькулятор.pdb
